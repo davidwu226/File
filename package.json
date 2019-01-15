@@ -1,14 +1,12 @@
 {
-  "name": "File",
-  "description": "HTML5 FileAPI `File` for Node.js",
-  "url": "http://github.com/coolaj86/node-file-api/",
+  "name": "@davidwu226/file",
+  "description": "A working HTML5 FileAPI `File` for Node.js",
   "keywords": [
     "html5",
     "jsdom",
     "file-api",
     "file"
   ],
-  "author": "AJ ONeal <coolaj86@gmail.com>",
   "contributors": [],
   "dependencies": {
     "mime": "^1.2.11"
